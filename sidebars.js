@@ -34,7 +34,7 @@ export default {
 			type: 'category',
 			label: 'References',
 			link: {type: 'doc', id: 'References/referencesIndex'},
-			items: ['References/Airspace', 'References/fars','References/RadioCalls', 'References/WeightBalance'],
+			items: ['References/Airspace', 'References/fars','References/RadioCalls', 'References/StudentExpectations', 'References/WeightBalance'],
 		},
 		],
 };
