@@ -1,0 +1,61 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar {
+  background: transparent;
+}
+
+.navbarOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* make sure it's above everything */
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.navbarOverlay :global(.navbar__link) {
+  color: white !important;
+  font-weight: 600;
+}
+
+.navbarOverlay :global(.navbar__link:hover) {
+  color: #ffcc00 !important;
+}
+
+.navbarOverlay :global(.navbar__toggle) {
+  color: white !important; /* Affects the icon's SVG if any */
+}
+
+.navbarOverlay :global(.navbar__toggle span) {
+  background-color: white !important; /* Affects the 3 bars */
+}
+
+.navbarOverlay :global(.navbar__toggle:hover span) {
+  background-color: #ffcc00 !important;
+}
+
+
+

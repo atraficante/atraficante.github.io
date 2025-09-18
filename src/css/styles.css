@@ -1,0 +1,50 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+#name {display:inline-block; width:325px; padding:0px}
+#view {display:inline-block; width:100px; padding:10px}
+#download {display:inline-block; width:20%; padding:10px}
+/* You can override the default Infima variables here https://docusaurus.community/knowledge/design/css/variables/. */
+:root {
+  --ifm-color-primary: #4642AA; /*#25c2a0;*/
+  --ifm-color-primary-dark: #3f3b99; /*rgb(33, 175, 144);*/
+  --ifm-color-primary-darker: #3b3891; /*rgb(31, 165, 136);*/
+  --ifm-color-primary-darkest: #3f3b99; /*rgb(26, 136, 112);*/
+  --ifm-color-primary-light: #4f4bb9; /*rgb(70, 203, 174);*/
+  --ifm-color-primary-lighter: #5753bc; /*rgb(102, 212, 189);*/
+  --ifm-color-primary-lightest: #706dc6; /*rgb(146, 224, 208);*/
+  --ifm-code-font-size: 100%; /*95%;*/
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-background-color: #000000;
+  --ifm-color-primary: #F09D18;
+  --ifm-color-primary-dark: #df8f0e;
+  --ifm-color-primary-darker: #d3870e;
+  --ifm-color-primary-darkest: #ae6f0b;
+  --ifm-color-primary-light: #f2a831;
+  --ifm-color-primary-lighter: #f2ad3d;
+  --ifm-color-primary-lightest: #f5bd62;
+  --ifm-color-content: #cecebe;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Width: 800px;
+}
+
+
+@media (max-width: 500px) {
+ body iframe:not(#tidio-chat-iframe):not(.hs-form-iframe):not(#chatIframe):not(#popupIframe) {
+  width: 100% !important;
+  height: auto!important;
+ }
+}
+
+
