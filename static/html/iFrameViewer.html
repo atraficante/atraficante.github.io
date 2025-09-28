@@ -14,10 +14,11 @@
         var adobeDCView = new AdobeDC.View({clientId: "cf57730b79904460980e2b05be4bcd9c", divId: "adobe-dc-view"});
         adobeDCView.previewFile({
             content:{location: {url: location.hash.replace(/#/, "")}},
-            metaData:{fileName: "Summary.pdf"}
+            metaData:{fileName: location.hash.replace(/#/, "").substring(8)}
         }, {defaultViewMode: "FIT_PAGE"});
     });
 </script>
 </script>
 </body>
 
+s
