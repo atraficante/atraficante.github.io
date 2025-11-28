@@ -7,7 +7,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Human Factors">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.A Human Factors.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Human Factors.pdf">Download</a>
 </div>
 <br></br>
 
@@ -18,7 +18,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Visual Scanning">View</a>
 </div>
 <div id = "download">
-    <a className="button button--outline button--primary" href="/assets/II.B Visual Scanning.pdf">Download</a>
+    <a className="button button--outline button--primary" href="/assets/Visual Scanning.pdf">Download</a>
 </div>
 <br></br>
 
@@ -29,7 +29,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Runway Incursion Avoidance">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.C Runway Incursion Avoidance.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Runway Incursion Avoidance.pdf">Download</a>
 </div>
 <br></br>
 
@@ -40,7 +40,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Airplane Aerodynamics and Performance">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.D, II.F Airplane Aerodynamics and Performance.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Airplane Aerodynamics and Performance.pdf">Download</a>
 </div>
 <br></br>
 
@@ -51,7 +51,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Airplane Flight Controls">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.Ea Airplane Flight Controls.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Airplane Flight Controls.pdf">Download</a>
 </div>
 <br></br>
 
@@ -62,7 +62,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Airplane Systems">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.Eb Aircraft Systems.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Aircraft Systems.pdf">Download</a>
 </div>
 <br></br>
 
@@ -73,7 +73,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/National Airspace System">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="/assets/II.G National Airspace System.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/National Airspace System.pdf">Download</a>
 </div>
 <br></br>
 
@@ -84,7 +84,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Naviagation and Flight Planning">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./II.I Navigation and Flight Planning.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Navigation and Flight Planning.pdf">Download</a>
 </div>
 <br></br>
 
@@ -95,7 +95,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Night Operations">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./II.M Night Operations.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Night Operations.pdf">Download</a>
 </div>
 <br></br>
 
@@ -106,7 +106,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/High Altitude">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./II.N, II.O High Altitude.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/High Altitude.pdf">Download</a>
 </div>
 <br></br>
 
@@ -117,7 +117,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Pilot Qualifications">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./III.A Pilot Qualifications.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Pilot Qualifications.pdf">Download</a>
 </div>
 <br></br>
 
@@ -128,7 +128,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Airworthiness Requirements">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./III.B Airworthiness Requirements.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Airworthiness Requirements.pdf">Download</a>
 </div>
 <br></br>
 
@@ -139,7 +139,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Weather">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./III.C Weather.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Weather.pdf">Download</a>
 </div>
 <br></br>
 
@@ -150,7 +150,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Maneuvers">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./IV.A Maneuvers.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Maneuvers.pdf">Download</a>
 </div>
 <br></br>
 
@@ -161,7 +161,7 @@
       <a className="button button--primary" href="/docs/lesson-plans/Communications, Light Signals, and Runway Lighting Systems">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./VI.A Communications, Light Signals, and Runway Lighting Systems.pdf">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Communications, Light Signals, and Runway Lighting Systems.pdf">Download</a>
 </div>
 <br></br>
 
@@ -172,6 +172,6 @@
       <a className="button button--primary" href="/docs/lesson-plans/Traffic Patterns">View</a>
 </div>
 <div id = "download">
-      <a className="button button--outline button--primary" href="./VI.B Traffic Pattern">Download</a>
+      <a className="button button--outline button--primary" href="/assets/Traffic Pattern.pdf">Download</a>
 </div>
 

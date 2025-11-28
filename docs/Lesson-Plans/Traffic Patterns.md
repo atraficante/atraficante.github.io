@@ -1,1 +1,1 @@
-<iframe src='/html/iFrameViewer.html#/assets/VI.B Traffic Pattern.pdf' width='100%' height='800px'></iframe>
+<iframe src='/html/iFrameViewer.html#/assets/Traffic Pattern.pdf' width='100%' height='800px'></iframe>

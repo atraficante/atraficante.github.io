@@ -1,1 +1,1 @@
-<iframe src='/html/iFrameViewer.html#/assets/II.M Night Operations.pdf' width='100%' height='800px'></iframe>
+<iframe src='/html/iFrameViewer.html#/assets/Night Operations.pdf' width='100%' height='800px'></iframe>

@@ -138,7 +138,7 @@ const config = {
             title: 'Contact',
             items: [
               {
-                label: 'andrew@traficanteaviation.com (not yet live)',
+                label: 'andrew@traficanteaviation.com',
                 to: 'mailto:andrew@traficanteaviation.com',
               },
             ],

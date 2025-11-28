@@ -1,1 +1,1 @@
-<iframe src='/html/iFrameViewer.html#/assets/II.B Visual Scanning.pdf' width='100%' height='800px'></iframe>
+<iframe src='/html/iFrameViewer.html#/assets/Visual Scanning.pdf' width='100%' height='800px'></iframe>
